@@ -3,6 +3,7 @@ body {
     flex-direction: column;
     font-family: 'Roboto', sans-serif;
     justify-content: space-between;
+    margin: 0;
 }
 .header, .footer, .home {
     background-color: #1f2937;
